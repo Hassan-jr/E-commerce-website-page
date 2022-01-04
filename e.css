@@ -1,0 +1,97 @@
+.brandbold{
+  font-weight: bold;
+}
+.cart{
+  position: absolute;
+  right: 200px;
+}
+/* brand */
+
+.pimg{
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  right: 100px;
+}
+.carticon{
+  position: absolute;
+  right: 150px;
+}
+.cheader{
+  color: #FF7F3F;
+}
+.btndis{
+    color: #FF7F3F;
+  background-color: #FFF1BD;
+  display: inline-block;
+  margin: 20px;
+}
+.headprice{
+    display: inline-block;
+}
+.inlinehead{
+  text-decoration: line-through;
+  font-weight: lighter;
+}
+.esection{
+
+  align-content: center;
+  padding: 50px;
+
+}
+.shoes{
+  height: 300px;
+  width: 400px;
+  border-radius: 20px;
+}
+.thumbil{
+  height: 75px;
+  width: 75px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.btnc{
+  background-color: #FF7F3F;
+}
+hr{
+  margin: 0 40px;
+}
+.div1 {
+
+display: inline;
+}
+.div2{
+
+
+line-height: 1.5;
+}
+.countingbtn {
+
+ border-color: #F0ECE3;
+ border-width: 0;
+ background-color: #F0ECE3;
+}
+.btncl{
+  background-color:#F0ECE3;
+  width: 100px;
+
+
+
+}
+
+.empty{
+  background-color: #F0ECE3;
+  display: none;
+  align-content: center;
+  padding: 50px;
+  position: absolute;
+  right: 100px;
+}
+.profile{
+  background-color: #F0ECE3;
+  display: none;
+  align-content: center;
+  padding: 50px;
+  position: absolute;
+  right: 100px;
+}
