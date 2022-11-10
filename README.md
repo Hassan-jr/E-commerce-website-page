@@ -1,2 +1,2 @@
 ## Responsive E-commerce-website-page Challenge
-### **challenge from frontend mentor website**
+#### _*challenge from frontend mentor website*_
